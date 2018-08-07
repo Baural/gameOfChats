@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>1042673825699-sbidpvhnn2uf74ir2b3icgqvm9ndl016.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1042673825699-sbidpvhnn2uf74ir2b3icgqvm9ndl016</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAipmOHKyeGaDl2Id_pjzjecfEQW2dM-KU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1042673825699</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>kz.boulder.gameOfChats</string>
+	<key>PROJECT_ID</key>
+	<string>blitz-7a858</string>
+	<key>STORAGE_BUCKET</key>
+	<string>blitz-7a858.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1042673825699:ios:046d5d8ce02827c6</string>
+	<key>DATABASE_URL</key>
+	<string>https://blitz-7a858.firebaseio.com</string>
+</dict>
+</plist>
